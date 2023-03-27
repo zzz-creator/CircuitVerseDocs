@@ -43,6 +43,5 @@ Click `Run All` to run all the tests in an instant
 
 ![drawing](../images/img_chapter7/runall.png)
 
-And get detailed results!
-
+And get detailed results
 ![drawing](../images/img_chapter7/detailed.png)
